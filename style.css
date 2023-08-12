@@ -1,0 +1,50 @@
+body{
+    font-family: 'Poppins', sans-serif;
+    margin-top: 0%;
+    margin-left: 0%;
+    margin-right: 0%;
+    margin-bottom: 0%;
+}
+h1{
+    font-size: 50px;
+    .orange-color{
+        color: orange;
+    }
+}
+section{
+    display:flex;
+    margin-top: 0px;
+    margin-bottom: 10px;
+
+}
+
+.half-width{
+    padding-left: 2%;
+
+    
+
+}
+
+
+
+.click-button{
+    text-decoration: none;
+    background-image: linear-gradient(orange,tomato);
+    color: azure;
+    padding: 10px 30px;
+    font-weight: 800;
+    border-radius: 5px;
+
+}
+.top-banner{
+    background-image: url(image/topp-baner\ half-red-conner-1.png);
+    background-repeat: no-repeat;
+    
+   
+}
+.dream-area{
+    background-image: url(image/circle-background.png);
+    background-repeat: no-repeat;
+    background-position: right;
+}
+
