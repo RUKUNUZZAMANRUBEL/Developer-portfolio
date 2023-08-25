@@ -10,11 +10,23 @@ h1{
     .orange-color{
         color: orange;
     }
+  
+    }
+
+.hero-learner{
+    color: orange;
 }
-section{
+
+.small-font{
+    font-size: 40px;
+}
+.flexsible-container{
     display:flex;
     margin-top: 0px;
     margin-bottom: 10px;
+    background-image: url(image/high-impact-login.png);
+    background-repeat: no-repeat;
+    
 
 }
 
@@ -24,7 +36,15 @@ section{
     
 
 }
-
+.paragraph-area{
+    box-shadow: 10px 10px 40px grey;
+    width: 100%;
+    margin-left: 30px;
+    margin-right: 30px;
+    padding-left: 20px;
+    border-radius: 10px;
+ 
+}
 
 
 .click-button{
@@ -47,4 +67,15 @@ section{
     background-repeat: no-repeat;
     background-position: right;
 }
-
+#full-stack{
+   border-left: 7px solid tomato;
+}
+#baby-web{
+    border-left: 7px solid blue;
+}
+footer p{
+    text-align: center;
+}
+#exp-padd{
+    padding-left: 15px;
+}
